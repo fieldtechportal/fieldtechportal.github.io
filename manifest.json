@@ -1,6 +1,6 @@
 {
-    "name": "iot_device_pairing",
-    "short_name": "iot_device_pairing",
+    "name": "MDU1 Field Tech Tool",
+    "short_name": "MDU1 FTT",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
